@@ -7,6 +7,7 @@
       "esnext"
     ],
     "allowJs": true,
+    //"checkJs": false, commented to allow intelliJ etc to check JS fow now
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,

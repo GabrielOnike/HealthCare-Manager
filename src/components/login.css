@@ -1,0 +1,35 @@
+
+.login {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.login input {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.box {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.services-bar {
+    display: flex;
+    list-style-type: none;
+    padding: 7rem 0rem 4rem 0rem;
+    background-color: blanchedalmond;
+  }
+  
+  .services-bar li {
+    padding: 0 2rem;
+  }
+  
+  .services-bar img {
+    width: 100%;
+  }
+  
+  .services-footer {
+    display: flexbox;
+    align-items: center;
+    padding: 4rem 0;
+    background-color:rgb(160, 147, 129);
+  }
+  
