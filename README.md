@@ -51,6 +51,6 @@ hunting will be created. Random pools will be run for occasional gifts to other 
 to the language and project structure is strict. These offers are separate from privately engaged contributors. Unadherence to standards is deemed 
 unlawful. --->
 
-This project belongs to TransCo Inc. <!--- and currenlty under the custody and curation of Gabriel Onike ---> not for profit but as a gift to creation. Good intent is welcome. Unlawful adaptation, modification or piration is forbidden. 
-
+This project belongs to TransCo Inc. not for profit but as a gift to creation. Good intent is welcome. Unlawful adaptation, modification or piration is forbidden. 
+<!--- This is currenlty under the custody and curation of Gabriel Onike. Most active contributor every 7 years holds the custodian title and is entitled to Gatekeeper priviledges --->
 
