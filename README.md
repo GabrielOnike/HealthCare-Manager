@@ -10,7 +10,7 @@ after cloning. Follow the main readme for installation of the shell.
 Mobile application for client side management is also being developed using Flutter and is stored as a separate but linked project.
 
 Developers are welcome to hop on this project. 
-The aspiration of this project is to provide an ever evolving digital platform that offers the best experience in healthcare 
+The aspiration of this project is to provide the defacto ever evolving digital platform that offers the best experience in healthcare 
 management via existing and emerging digital channels.
 
 Electron version: 11.2.1
@@ -52,5 +52,5 @@ to the language and project structure is strict. These offers are separate from 
 unlawful. --->
 
 This project belongs to TransCo Inc. not for profit but as a gift to creation. Good intent is welcome. Unlawful adaptation, modification or piration is forbidden. 
-<!--- This is currenlty under the custody and curation of Gabriel Onike. Most active contributor every 7 years holds the custodian title and is entitled to Gatekeeper priviledges --->
+<!--- This is currently under the custody and curation of Gabriel Onike. Most active contributor every 7 years holds the custodian title and is entitled to Gatekeeper priviledges --->
 
