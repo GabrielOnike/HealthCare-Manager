@@ -27,20 +27,20 @@ To launch,
 may wish to contribute, build or be a part of this journey are welcome on board. The project scope is large and various 
 parts require wide skills.
 There is 
-electronJS for the shell management- its less of a language and more of adapting to its style and methods to tap into 
+- electronJS for the shell management- its less of a language and more of adapting to its style and methods to tap into 
 native functionalities.
-ReactJS and Typescript handles the frontend so that's for frontend contributors- theres alot of MaterialUI so for those that love that
+- ReactJS and Typescript handles the frontend so that's for frontend contributors- theres alot of MaterialUI so for those that love that
 library. Bootstrap is used but on when really necessary. State management is being integrated with Redux currently. This is the most built 
 part of this application currently.
-NodeJS for the backend management - yarn & npm. 
-Database is SQL built currently though not yet linked. Backend development can hop on this. If you indicate interest, you'd get access
+- NodeJS for the backend management - yarn & npm. 
+- Database is SQL built currently though not yet linked. Backend development can hop on this. If you indicate interest, you'd get access
 to the link with the SQL file. This functionality is still barebones and in need of attention. SQL database is hosted on the cloud
 and provides access points for the desktop and mobile apps to consume. Data is called with axios. Webhooks are to be integrated for the 
 consultation/chat functionality to sync with mobile app.
 Auth0 is being heavily considered for integration for nore efficient User management and to reduce backend burden. 
 All database calls and sessions storage must be made locally and cached on both the dektop and mobile app to provide much needed
 offline functionality.
-Data Science will come in representing statistics for the database on the frontend. ReactJS has represenational libraries for this. R is 
+- Data Science will come in representing statistics for the database on the frontend. ReactJS has represenational libraries for this. R is 
 also encouraged here for playing around with the data.
 
 <!--- Official contribution will elicit an invitation to our Jira Managed channel. To see user stories, current issues and the roadmap. --->
